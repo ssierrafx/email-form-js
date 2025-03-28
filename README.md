@@ -11,5 +11,3 @@ A simple email submission form with basic validations in JavaScript.
 - CSS  
 - JavaScript  
 
----
-by [ssierrafx]  
